@@ -42,6 +42,8 @@ html,body{
 
 
 
+
+
 .links a{
     color: white;
     text-decoration: none;
@@ -100,6 +102,7 @@ html,body{
     color: #17597C ;
     margin-bottom: 10px;
 }
+
 
 form{
     padding-top: 20px;
@@ -256,7 +259,6 @@ button:hover{
   inset: 0;
   /* background: linear-gradient(to bottom right,rgb(29, 133, 121), rgba(0, 168, 232, 0.6)); */
   background: linear-gradient(to bottom right,rgb(139, 179, 174), rgba(27, 103, 133, 0.6));
-  
   padding: 0 30px ;
   color: white;
   display: flex;
@@ -288,7 +290,6 @@ button {
   border-radius: 20px;
   cursor: pointer;
   transition: 1s ease;
-
 }
 
 .overlay button{
@@ -854,3 +855,6 @@ footer{
     
     border-bottom: 10px solid #82CFC7;
 }
+
+
+
